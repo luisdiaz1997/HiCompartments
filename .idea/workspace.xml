@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d66e251-5359-4d84-a864-8a36bc073a1c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="accad555-95fb-417a-9e72-4498f858f464" />
+  <component name="ProjectId" id="1V0v01Ylu9N2hPMoNTpuh1XugJH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="HiComp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d66e251-5359-4d84-a864-8a36bc073a1c" name="Default Changelist" comment="" />
+      <created>1576402600779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576402600779</updated>
+      <workItem from="1576402604500" duration="10702000" />
+      <workItem from="1576550293827" duration="2156000" />
+      <workItem from="1576554173403" duration="3274000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="917" height="660" key="GridCell.Tab.0.bottom" timestamp="1576562506511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="660" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576562506511" />
+    <state width="917" height="660" key="GridCell.Tab.0.center" timestamp="1576562506509">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="660" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576562506509" />
+    <state width="917" height="660" key="GridCell.Tab.0.left" timestamp="1576562506508">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="660" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576562506508" />
+    <state width="917" height="660" key="GridCell.Tab.0.right" timestamp="1576562506510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="917" height="660" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576562506510" />
+    <state x="204" y="159" key="SettingsEditor" timestamp="1576402839587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="204" y="159" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1576402839587" />
+    <state x="643" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1576554181584">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="643" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576554181584" />
+  </component>
+</project>
